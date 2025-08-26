@@ -33,3 +33,12 @@ It showcases a simple top-down pipeline: data ingestion, macro + yield curve fea
    ```bash
    git clone https://github.com/<your-username>/FI_ML_Challenge.git
    cd FI_ML_Challenge
+
+Then right **after that section** you can keep your badges for online run/view:
+
+```markdown
+## Run Online
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelpisler/FI_ML_Challenge/HEAD?labpath=JB_FI_ML_Challenge.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelpisler/FI_ML_Challenge/blob/main/JB_FI_ML_Challenge.ipynb)
+[View on nbviewer](https://nbviewer.org/github/michaelpisler/FI_ML_Challenge/blob/main/JB_FI_ML_Challenge.ipynb)
